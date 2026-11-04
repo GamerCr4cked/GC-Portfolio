@@ -8,3 +8,5 @@ Sitemap: https://gcr4cked.dpdns.org/sitemap.xml
 # Build watch path test
 
 # Recheck all-path deployment
+
+# Cloudflare Pages deployment test
