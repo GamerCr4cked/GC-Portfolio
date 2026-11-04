@@ -21,3 +21,5 @@ All deployable website files live in `public/`, which is the configured Cloudfla
 No build command is required.
 
 Cloudflare Pages project: gamercr4cked
+
+Deployment check: build watch path filters cleared.
