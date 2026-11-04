@@ -2,3 +2,5 @@ User-agent: *
 Allow: /
 
 Sitemap: https://gcr4cked.dpdns.org/sitemap.xml
+
+# Portfolio deployment trigger
