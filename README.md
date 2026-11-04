@@ -19,3 +19,5 @@ All deployable website files live in `public/`, which is the configured Cloudfla
 - `public/assets/` — Shared styles, scripts, and favicon
 
 No build command is required.
+
+Cloudflare Pages project: gamercr4cked
